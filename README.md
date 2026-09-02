@@ -105,7 +105,7 @@ User Question ---> Retrieval
 - Run the application
 
 ```
-    python rag_assistant.py
+    python main.py
 ```
 
 ## Features to work on to improve this further
