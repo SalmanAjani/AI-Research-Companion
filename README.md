@@ -1,6 +1,6 @@
-# Advanced RAG System
+# AI Research Companion
 
-An Advanced Retrieval-Augmented Generation (RAG) system that allows users to ask questions about the contents of
+This is an advanced Retrieval-Augmented Generation (RAG) companion that allows users to ask questions about the contents of
 documents and receive answers based on the information found in them.
 
 ## What problem does this solve
