@@ -34,6 +34,9 @@ It also maintains conversation history so that follow-up questions can be unders
 - Source/page information in retrieved context
 - Interactive question-answering through the terminal
 
+## App Screenshot
+<img width="1565" height="513" alt="research_companion_use" src="https://github.com/user-attachments/assets/20869ff7-87c7-4b49-9b49-e87746fb131b" />
+
 ## Architecture
 
 ```text
